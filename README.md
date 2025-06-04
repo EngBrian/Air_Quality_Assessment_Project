@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-Air pollution severely affects both environmental integrity and public health. This project focuses on building a classification model that predicts air quality levels (Good, Moderate, Poor, Hazardous) using both environmental (e.g., CO, NO₂, SO₂) and demographic (e.g., population density, proximity to industrial zones) data.
+Air pollution severely affects both environmental integrity and public health. This project focuses on building a classification model that predicts air quality levels (Good, Moderate, Poor, Hazardous) using both environmental (e.g CO, NO₂, SO₂) and demographic (e.g population density, proximity to industrial zones) data.
 
 ## Objectives
 
