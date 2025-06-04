@@ -58,6 +58,11 @@ Illustrates the classification performance for each air quality category. Diagon
 
 ![Confusion Matrix](visuals/Confusion%20matrix.png)
 
+**ROC Curves (Receiver Operating Characteristic)**
+
+ROC curves were used to evaluate the performance of the multi-class classifier. They illustrate the trade-off between true positive rate and false positive rate for each air quality category. Higher AUC values indicate strong discriminative power of the model across classes.
+
+![ROC Curves](./visuals/ROC_curves.png)
 
 **Classification Report Metrics**
 
