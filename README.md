@@ -36,27 +36,27 @@ Air pollution severely affects both environmental integrity and public health. T
 
 Illustrated the class imbalance.
 
-![Distribution of Air Quality Levels](visuals/Distribution%20of%20Air%20Quality%20Levels.png)
+![Distribution of Air Quality Levels](./visuals/distribution_air_quality_levels.png)
 
 
 **Correlation Heatmap**
 
 Highlighted the strongest relationships between variables (e.g., CO, NO₂ positively correlated with poor air quality).
 
-![Correlation Heatmap](visuals/Correlation%20Heatmap.png)
+![Correlation Heatmap](./visuals/correlation_heatmap.png)
 
 
 **Feature Importance Plot (Decision Trees)**
 
 Ranked Proximity to Industrial Areas, CO, and NO₂ as the top predictors of poor air quality.
 
-![Feature Importance](visuals/Feature%20Importance.png)
+![Feature Importance](./visuals/feature_importance.png)
 
 **Confusion Matrix**
 
 Illustrates the classification performance for each air quality category. Diagonal values represent correct predictions, while off-diagonal values indicate misclassifications. This helps assess how well the model distinguishes between “Good,” “Moderate,” “Poor,” and “Hazardous” air quality.
 
-![Confusion Matrix](visuals/Confusion%20matrix.png)
+![Confusion Matrix](./visuals/confusion_matrix.png)
 
 **ROC Curves (Receiver Operating Characteristic)**
 
